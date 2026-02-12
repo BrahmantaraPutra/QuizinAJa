@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB89464F-A9C7-4E22-92B1-2D51A32B33A7}|QuizinAja.csproj|d:\\13_brahmantara\\visualstudio\\quizinaja\\quizinaja\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB89464F-A9C7-4E22-92B1-2D51A32B33A7}|QuizinAja.csproj|solutionrelative:forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB89464F-A9C7-4E22-92B1-2D51A32B33A7}|QuizinAja.csproj|D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB89464F-A9C7-4E22-92B1-2D51A32B33A7}|QuizinAja.csproj|solutionrelative:forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB89464F-A9C7-4E22-92B1-2D51A32B33A7}|QuizinAja.csproj|d:\\13_brahmantara\\visualstudio\\quizinaja\\quizinaja\\forms\\addquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB89464F-A9C7-4E22-92B1-2D51A32B33A7}|QuizinAja.csproj|solutionrelative:forms\\addquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB89464F-A9C7-4E22-92B1-2D51A32B33A7}|QuizinAja.csproj|D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\forms\\addquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB89464F-A9C7-4E22-92B1-2D51A32B33A7}|QuizinAja.csproj|solutionrelative:forms\\addquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB89464F-A9C7-4E22-92B1-2D51A32B33A7}|QuizinAja.csproj|D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\forms\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB89464F-A9C7-4E22-92B1-2D51A32B33A7}|QuizinAja.csproj|solutionrelative:forms\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB89464F-A9C7-4E22-92B1-2D51A32B33A7}|QuizinAja.csproj|D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\forms\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB89464F-A9C7-4E22-92B1-2D51A32B33A7}|QuizinAja.csproj|solutionrelative:forms\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB89464F-A9C7-4E22-92B1-2D51A32B33A7}|QuizinAja.csproj|D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\forms\\code.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB89464F-A9C7-4E22-92B1-2D51A32B33A7}|QuizinAja.csproj|solutionrelative:forms\\code.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB89464F-A9C7-4E22-92B1-2D51A32B33A7}|QuizinAja.csproj|D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\forms\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB89464F-A9C7-4E22-92B1-2D51A32B33A7}|QuizinAja.csproj|solutionrelative:forms\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB89464F-A9C7-4E22-92B1-2D51A32B33A7}|QuizinAja.csproj|D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\forms\\quizform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB89464F-A9C7-4E22-92B1-2D51A32B33A7}|QuizinAja.csproj|solutionrelative:forms\\quizform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB89464F-A9C7-4E22-92B1-2D51A32B33A7}|QuizinAja.csproj|d:\\13_brahmantara\\visualstudio\\quizinaja\\quizinaja\\forms\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB89464F-A9C7-4E22-92B1-2D51A32B33A7}|QuizinAja.csproj|solutionrelative:forms\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB89464F-A9C7-4E22-92B1-2D51A32B33A7}|QuizinAja.csproj|d:\\13_brahmantara\\visualstudio\\quizinaja\\quizinaja\\forms\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB89464F-A9C7-4E22-92B1-2D51A32B33A7}|QuizinAja.csproj|solutionrelative:forms\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB89464F-A9C7-4E22-92B1-2D51A32B33A7}|QuizinAja.csproj|d:\\13_brahmantara\\visualstudio\\quizinaja\\quizinaja\\forms\\quizform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB89464F-A9C7-4E22-92B1-2D51A32B33A7}|QuizinAja.csproj|solutionrelative:forms\\quizform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB89464F-A9C7-4E22-92B1-2D51A32B33A7}|QuizinAja.csproj|d:\\13_brahmantara\\visualstudio\\quizinaja\\quizinaja\\forms\\addquiz.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB89464F-A9C7-4E22-92B1-2D51A32B33A7}|QuizinAja.csproj|solutionrelative:forms\\addquiz.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB89464F-A9C7-4E22-92B1-2D51A32B33A7}|QuizinAja.csproj|d:\\13_brahmantara\\visualstudio\\quizinaja\\quizinaja\\forms\\code.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB89464F-A9C7-4E22-92B1-2D51A32B33A7}|QuizinAja.csproj|solutionrelative:forms\\code.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB89464F-A9C7-4E22-92B1-2D51A32B33A7}|QuizinAja.csproj|d:\\13_brahmantara\\visualstudio\\quizinaja\\quizinaja\\forms\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB89464F-A9C7-4E22-92B1-2D51A32B33A7}|QuizinAja.csproj|solutionrelative:forms\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB89464F-A9C7-4E22-92B1-2D51A32B33A7}|QuizinAja.csproj|d:\\13_brahmantara\\visualstudio\\quizinaja\\quizinaja\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB89464F-A9C7-4E22-92B1-2D51A32B33A7}|QuizinAja.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB89464F-A9C7-4E22-92B1-2D51A32B33A7}|QuizinAja.csproj|d:\\13_brahmantara\\visualstudio\\quizinaja\\quizinaja\\data\\dataconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB89464F-A9C7-4E22-92B1-2D51A32B33A7}|QuizinAja.csproj|solutionrelative:data\\dataconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 388,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateAccount.cs [Design]",
+              "DocumentMoniker": "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\Forms\\CreateAccount.cs",
+              "RelativeDocumentMoniker": "Forms\\CreateAccount.cs",
+              "ToolTip": "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\Forms\\CreateAccount.cs [Design]",
+              "RelativeToolTip": "Forms\\CreateAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:33:26.165Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "Forms\\MainForm.cs",
+              "ToolTip": "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\Forms\\MainForm.cs [Design]*",
+              "RelativeToolTip": "Forms\\MainForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:33:26.16Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddQuiz.cs [Design]",
+              "DocumentMoniker": "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\Forms\\AddQuiz.cs",
+              "RelativeDocumentMoniker": "Forms\\AddQuiz.cs",
+              "ToolTip": "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\Forms\\AddQuiz.cs [Design]",
+              "RelativeToolTip": "Forms\\AddQuiz.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:33:26.053Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddQuiz.cs",
+              "DocumentMoniker": "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\Forms\\AddQuiz.cs",
+              "RelativeDocumentMoniker": "Forms\\AddQuiz.cs",
+              "ToolTip": "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\Forms\\AddQuiz.cs",
+              "RelativeToolTip": "Forms\\AddQuiz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:33:25.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "Forms\\MainForm.cs",
+              "ToolTip": "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\Forms\\MainForm.cs*",
+              "RelativeToolTip": "Forms\\MainForm.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:33:25.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginPage.cs [Design]",
+              "DocumentMoniker": "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\Forms\\LoginPage.cs",
+              "RelativeDocumentMoniker": "Forms\\LoginPage.cs",
+              "ToolTip": "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\Forms\\LoginPage.cs [Design]",
+              "RelativeToolTip": "Forms\\LoginPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:33:26.181Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Code.cs [Design]",
+              "DocumentMoniker": "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\Forms\\Code.cs",
+              "RelativeDocumentMoniker": "Forms\\Code.cs",
+              "ToolTip": "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\Forms\\Code.cs [Design]",
+              "RelativeToolTip": "Forms\\Code.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:33:26.112Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Report.cs [Design]",
+              "DocumentMoniker": "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\Forms\\Report.cs",
+              "RelativeDocumentMoniker": "Forms\\Report.cs",
+              "ToolTip": "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\Forms\\Report.cs [Design]",
+              "RelativeToolTip": "Forms\\Report.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:33:26.117Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuizForm.cs [Design]",
+              "DocumentMoniker": "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\Forms\\QuizForm.cs",
+              "RelativeDocumentMoniker": "Forms\\QuizForm.cs",
+              "ToolTip": "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\Forms\\QuizForm.cs [Design]",
+              "RelativeToolTip": "Forms\\QuizForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:33:26.101Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\Forms\\LoginPage.cs",
+              "RelativeDocumentMoniker": "Forms\\LoginPage.cs",
+              "ToolTip": "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\Forms\\LoginPage.cs",
+              "RelativeToolTip": "Forms\\LoginPage.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwDIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:33:25.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QuizForm.cs",
+              "DocumentMoniker": "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\Forms\\QuizForm.cs",
+              "RelativeDocumentMoniker": "Forms\\QuizForm.cs",
+              "ToolTip": "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\Forms\\QuizForm.cs",
+              "RelativeToolTip": "Forms\\QuizForm.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAApwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:33:25.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddQuiz.Designer.cs",
+              "DocumentMoniker": "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\Forms\\AddQuiz.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\AddQuiz.Designer.cs",
+              "ToolTip": "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\Forms\\AddQuiz.Designer.cs",
+              "RelativeToolTip": "Forms\\AddQuiz.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAvwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:33:25.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Code.cs",
+              "DocumentMoniker": "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\Forms\\Code.cs",
+              "RelativeDocumentMoniker": "Forms\\Code.cs",
+              "ToolTip": "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\Forms\\Code.cs",
+              "RelativeToolTip": "Forms\\Code.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:33:25.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Report.cs",
+              "DocumentMoniker": "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\Forms\\Report.cs",
+              "RelativeDocumentMoniker": "Forms\\Report.cs",
+              "ToolTip": "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\Forms\\Report.cs",
+              "RelativeToolTip": "Forms\\Report.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:33:25.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateAccount.cs",
+              "DocumentMoniker": "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\Forms\\CreateAccount.cs",
+              "RelativeDocumentMoniker": "Forms\\CreateAccount.cs",
+              "ToolTip": "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\Forms\\CreateAccount.cs",
+              "RelativeToolTip": "Forms\\CreateAccount.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwFcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:33:25.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DataConnection.cs",
+              "DocumentMoniker": "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\Data\\DataConnection.cs",
+              "RelativeDocumentMoniker": "Data\\DataConnection.cs",
+              "ToolTip": "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\Data\\DataConnection.cs",
+              "RelativeToolTip": "Data\\DataConnection.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:33:26.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T04:33:26.067Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 131,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

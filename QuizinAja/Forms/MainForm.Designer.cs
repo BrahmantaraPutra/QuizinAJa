@@ -106,6 +106,7 @@
             dg_yourquiz.RowHeadersVisible = false;
             dg_yourquiz.Size = new Size(633, 513);
             dg_yourquiz.TabIndex = 5;
+            dg_yourquiz.CellContentClick += dg_yourquiz_CellContentClick;
             // 
             // quiz_name
             // 

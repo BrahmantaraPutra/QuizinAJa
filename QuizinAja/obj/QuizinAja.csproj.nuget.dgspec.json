@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VisualStudio\\QuizinAja\\QuizinAja.csproj": {}
+    "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\QuizinAja.csproj": {}
   },
   "projects": {
-    "D:\\VisualStudio\\QuizinAja\\QuizinAja.csproj": {
+    "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\QuizinAja.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VisualStudio\\QuizinAja\\QuizinAja.csproj",
+        "projectUniqueName": "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\QuizinAja.csproj",
         "projectName": "QuizinAja",
-        "projectPath": "D:\\VisualStudio\\QuizinAja\\QuizinAja.csproj",
-        "packagesPath": "C:\\Users\\M S I\\.nuget\\packages\\",
-        "outputPath": "D:\\VisualStudio\\QuizinAja\\obj\\",
+        "projectPath": "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\QuizinAja.csproj",
+        "packagesPath": "C:\\Users\\SMKN 2 YOGYAKARTA\\.nuget\\packages\\",
+        "outputPath": "D:\\13_Brahmantara\\VisualStudio\\QuizinAJa\\QuizinAja\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\M S I\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SMKN 2 YOGYAKARTA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -76,6 +77,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.22, 8.0.22]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.22, 8.0.22]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.22, 8.0.22]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.22, 8.0.22]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -84,7 +103,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.310/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

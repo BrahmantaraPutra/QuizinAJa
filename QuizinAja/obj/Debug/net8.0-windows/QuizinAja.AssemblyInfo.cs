@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuizinAja")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edb32dfed746560704fc311c291e3b2aea790c27")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuizinAja")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuizinAja")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

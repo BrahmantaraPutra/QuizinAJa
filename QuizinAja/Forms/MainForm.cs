@@ -20,7 +20,7 @@ namespace QuizinAja.Forms
             InitializeComponent();
             _currentuser = user;
 
-            txtusername.Text = _currentuser.Username;
+            txtusername.Text = _currentuser.FullName;
         }
 
         private void MainForm_Load(object sender, EventArgs e)
@@ -30,12 +30,16 @@ namespace QuizinAja.Forms
 
         private void btn_add_Click(object sender, EventArgs e)
         {
-
+            AddQuiz form = new AddQuiz(_currentuser);
+            form.Show();
+            this.Hide();
         }
 
         private void btn_view_Click(object sender, EventArgs e)
         {
-
+            Report form = new Report();
+            form.Show();
+            this.Hide();
         }
 
         private void txtusername_Click(object sender, EventArgs e)
@@ -48,6 +52,11 @@ namespace QuizinAja.Forms
             LoginPage login = new LoginPage();
             login.Show();
             this.Hide();
+        }
+
+        private void dg_yourquiz_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }

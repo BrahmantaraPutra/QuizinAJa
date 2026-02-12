@@ -132,6 +132,7 @@
             txt_description.ScrollBars = ScrollBars.Vertical;
             txt_description.Size = new Size(579, 84);
             txt_description.TabIndex = 7;
+            txt_description.TextChanged += txt_description_TextChanged;
             // 
             // groupBox1
             // 
@@ -295,6 +296,7 @@
             btn_cancel.TabIndex = 10;
             btn_cancel.Text = "Cancel";
             btn_cancel.UseVisualStyleBackColor = true;
+            btn_cancel.Click += btn_cancel_Click;
             // 
             // AddQuiz
             // 
@@ -315,6 +317,7 @@
             Name = "AddQuiz";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "QuizinAja - Online Quiz Platform";
+            Load += AddQuiz_Load;
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
             panel1.ResumeLayout(false);
